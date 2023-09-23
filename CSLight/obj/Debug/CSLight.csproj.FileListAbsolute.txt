@@ -1,0 +1,7 @@
+C:\Users\Sofy\source\repos\CSLight\bin\Debug\CSLight.exe.config
+C:\Users\Sofy\source\repos\CSLight\bin\Debug\CSLight.exe
+C:\Users\Sofy\source\repos\CSLight\bin\Debug\CSLight.pdb
+C:\Users\Sofy\source\repos\CSLight\obj\Debug\CSLight.csproj.AssemblyReference.cache
+C:\Users\Sofy\source\repos\CSLight\obj\Debug\CSLight.csproj.CoreCompileInputs.cache
+C:\Users\Sofy\source\repos\CSLight\obj\Debug\CSLight.exe
+C:\Users\Sofy\source\repos\CSLight\obj\Debug\CSLight.pdb
